@@ -8,7 +8,7 @@ A packaged __binary version of the tool__ is available at [this location](https:
 
 Follow these simple steps to 'install' the viewer/scripting application:
 
-  - Download tue_viewer.zip (175 MB) and the [snippets configuration file}(src/snippets.conf).
+  - Download tue_viewer.zip (175 MB) and the [snippets configuration file](src/snippets.conf) which contains a few example snippets to get you started.
   - in your home directory (e.g. C:/Users/yourname) create a directory called ".ifcopenshell" in this create another directory called "app" and place the snippets.conf there (Note, if you have started the application once allready, you will find the directory structure and a default snipptes.conf there. You can overwrite this)
   - Unpack tue_viewer.zip and start the viewer by double-clicking start_viewer.cmd
   - Follow the tutorial in [this wiki](https://github.com/jakob-beetz/IfcOpenShellScriptingTutorial/wiki/Home)
