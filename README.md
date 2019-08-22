@@ -1,6 +1,6 @@
 # IfcOpenShell Scripting Tutorial 
 
-![Viewer screenshot](img/tue_viewer_screen_shot.png)
+![Viewer screenshot](img/rwth_viewer_screen_shot.png)
 
 This repository contains tutorial to learn scripting your own applications for processing Industry Foundation Classes (IFC) files. It is based on a scriptable viewer tool that uses the [IfcOpenShell](http://ifcopenshell.org) toolkit. The scriptable viewer tool has been created for teaching purposes and is used at the [Eindhoven University at Technology](https://www.isbe.tue.nl) and the [RWTH Aachen University](http://caad.arch.rwth-aachen.de) .  
 
