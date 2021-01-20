@@ -4,7 +4,7 @@
 
 This repository contains educational resources including a tutorial to learn scripting your own applications for processing **Industry Foundation Classes (IFC)** files. It is based on a scriptable viewer tool that uses the [IfcOpenShell](http://ifcopenshell.org) toolkit. The scriptable viewer tool has been created for teaching purposes and is used at the [Eindhoven University at Technology](https://www.isbe.tue.nl) and the [RWTH Aachen University](http://dc.rwth-aachen.de) .  
 
-A packaged __binary version of the tool__ is available at [this location]( http://caad.arch.rwth-aachen.de/download/rwth_viewer.zip )(175 MB!) to get you started. It comes with "all batteries included", including python, IfcOpenShell and the Python OpenCascade wrappers.
+A packaged __binary  version of the tool (Windows at the moment)__ is available at the  [the release page]( https://github.com/jakob-beetz/IfcOpenShellScriptingTutorial/releases/ )(175 MB!) to get you started. It comes with "all batteries included", including python, IfcOpenShell and the Python OpenCascade wrappers.
 
 The package includes alls necessary source code to extend, modify, reuse the scripting viewer to your liking.
 
